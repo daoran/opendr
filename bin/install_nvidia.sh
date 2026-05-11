@@ -119,7 +119,7 @@ apt-get update && apt-get install -y \
     libavfilter-dev \
     libeigen3-dev
 
-pip3 install av==8.0.1
+pip3 install av>=12.0.0
 
 # Install rest of the dependencies of OpenDR
 
